@@ -1,0 +1,35 @@
+th {
+   color: grey;
+   font-size: smaller; 
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+td, th  {
+    font-size: x-small;
+    padding: 5px;
+    
+}
+
+body {
+    text-align: center;
+}
+
+#cross {
+    color: orange;
+    padding-left: 35px;
+    font-style: oblique;
+    
+}
+
+#cross2 {
+    color: green;
+    padding: 4px;    
+    border: 1px solid green;
+    background-color: greenyellow;
+    border-radius: 500px;
+}
